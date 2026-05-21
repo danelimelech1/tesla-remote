@@ -4,7 +4,7 @@ A TeamViewer-like screen sharing application written in C++, featuring a Tesla-i
 
 ![License](https://img.shields.io/badge/license-MIT-red) ![C++](https://img.shields.io/badge/C%2B%2B-20-red) ![Platform](https://img.shields.io/badge/platform-Windows-red)
 
-![Preview](docs/preview.svg)
+![Preview](docs/preview-v2.svg)
 
 ---
 
